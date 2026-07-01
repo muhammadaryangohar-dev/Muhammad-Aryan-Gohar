@@ -1,9 +1,9 @@
-# Hi, I'm Muhammad Aryan 👋
+# Hi, I'm Muhammad Aryan 
 
-🎓 Computer Science Student
-🚀 Aspiring Product Manager in AI & Software
-💻 Full-Stack & Database Developer
-🤖 Interested in AI, Automation, and Intelligent Products
+ Computer Science Student
+ Aspiring Product Manager in AI & Software
+ Full-Stack & Database Developer
+ Interested in AI, Automation, and Intelligent Products
 
 ## Currently Learning
 - MERN Stack
@@ -29,5 +29,5 @@
 - Create AI-powered applications
 - Contribute to open source
 
-📫 Connect with me on LinkedIn
+ Connect with me on LinkedIn
 www.linkedin.com/in/muhammad-aryan-gohar-30a7163b1
