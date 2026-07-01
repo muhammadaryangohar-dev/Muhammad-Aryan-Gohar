@@ -13,6 +13,7 @@
 - System Design
 
 ## Skills
+- C++
 - Java
 - JavaScript
 - React
@@ -22,6 +23,14 @@
 - Git & GitHub
 - WordPress
 - SEO
+- Database Design
+- Database Management Systems (DBMS)
+- AI Automation
+- Workflow Automation
+- n8n
+- System Design
+- Product Management
+- Product Strategy
 
 ## Goals for 2026-2028
 - Build real-world projects
