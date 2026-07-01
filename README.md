@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Aryan 
 
- Computer Science Student
- Aspiring Product Manager in AI & Software
- Full-Stack & Database Developer
+ Computer Science Student|
+ Aspiring Product Manager in AI & Software|
+ Full-Stack & Database Developer|
  Interested in AI, Automation, and Intelligent Products
 
 ## Currently Learning
