@@ -1,12 +1,9 @@
 # Hi, I'm Muhammad Aryan 
-
- Computer Science Student|
- Aspiring Product Manager in AI & Software|
- Full-Stack & Database Developer|
+ AI Engineer and Developer
  Interested in AI, Automation, and Intelligent Products
 
 ## Currently Learning
-- MERN Stack
+- Backend Development
 - Database Design
 - AI Concepts
 - Product Strategy
@@ -15,14 +12,10 @@
 ## Skills
 - C++
 - Java
-- JavaScript
-- React
-- Node.js
 - MongoDB
 - SQL
 - Git & GitHub
 - WordPress
-- SEO
 - Database Design
 - Database Management Systems (DBMS)
 - AI Automation
